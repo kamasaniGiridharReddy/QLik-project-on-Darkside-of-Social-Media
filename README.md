@@ -45,3 +45,12 @@ The infographic provides insights into social media usage patterns. Facebook and
 The infographic highlights social media usage across different professions, revealing that artists and students spend the most time on these platforms, while managers spend the least. The pie chart shows operating system preferences among users, with Windows leading, followed by Android and MacOS. Gender differences in scrolling behavior are evident, as females scroll slightly more frequently than males. Additionally, satisfaction levels are moderate, but there is noticeable productivity loss associated with social media usage.
 
 ## Reports
+![Screenshot 2024-07-29 164917](https://github.com/user-attachments/assets/4dc4e0c5-18db-4bb6-bd8c-8dbd771ab6dd)
+A report is a comprehensive document that provides a detailed and structured account of data analysis, findings, and insights. It is typically used for in-depth analysis, documentation, and communication of results. Reports are suitable for a diverse audience, including decision-makers, analysts, and stakeholders who need a comprehensive understanding of the data. 
+
+## Design of Storytelling
+
+Designing a report in Power BI involves connecting to data sources, creating visualizations like charts and graphs, customizing their appearance and interactivity, organizing them logically on the canvas, formatting elements for consistency and clarity, and optionally creating dashboards for a summarized view. Throughout the process, it's essential to consider the audience's needs and ensure the report effectively communicates insights from the data. Finally, iterate based on feedback to continually improve the report's design and usefulness.
+
+![Screenshot 2024-07-29 164917](https://github.com/user-attachments/assets/c55e9a14-1c03-4066-b374-bd8bb7ed05c2)
+
